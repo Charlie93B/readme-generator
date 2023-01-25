@@ -12,6 +12,9 @@ An app that generates a Readme file from command line inputs
 Clone repository. Run npm i.
 ## Usage
 Run node app.js in command line then answer the questions  
+
+[Video Link](https://watch.screencastify.com/v/yMZ2P0WXndQdtPA7TbtW)
+
 ## Contributing
 Please contact before contributing
 ## Tests
